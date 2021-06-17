@@ -1,7 +1,7 @@
 <h1 align=center> Hi there 👋 </h1>
 <h3 align=center> I'm Thijs, a software development student at Codam Coding College. <br><br> Connect with me </h3>
 
-<p align=center> <a href= "https://www.linkedin.com/in/thijs-bruineman/"><img height=30px align=center src="https://github.com/tishj/images/blob/master/linkedin.png"/></a>  OR <a href="mailto:thijsbruineman@gmail.com"><img height=30px align=center src="https://github.com/tishj/images/blob/master/mail.png"></a> </p>
+<p align=center> <a href= "https://www.linkedin.com/in/thijs-bruineman/"><img height=30px align=center src="https://github.com/Tishj/Tishj/blob/master/linkedin.png"/></a>  OR <a href="mailto:thijsbruineman@gmail.com"><img height=30px align=center src="https://github.com/Tishj/Tishj/blob/master/mail.png"></a> </p>
 
 ---
 
